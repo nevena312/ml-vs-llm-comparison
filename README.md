@@ -35,3 +35,13 @@ While LLMs offer remarkable flexibility and strong performance without task-spec
 - LLMs can outperform traditional models in zero-shot settings on certain datasets
 - Few-shot performance depends heavily on prompt quality
 - Traditional ML models remain more predictable and computationally efficient
+
+## Dataset
+This project uses the IMDB Movie Reviews dataset:
+
+- Name: IMDB Dataset of 50K Movie Reviews  
+- Source: Kaggle  
+- Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+## Run in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JjjyKXQ_LIz6nSr4mZm67sDq2tpxRiLi?usp=sharing)
